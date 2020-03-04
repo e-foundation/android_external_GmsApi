@@ -3,3 +3,7 @@ build/
 *.iml
 local.properties
 .gradle/
+.classpath
+.project
+.settings/
+bin/
